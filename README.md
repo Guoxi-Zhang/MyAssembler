@@ -12,7 +12,7 @@
 
 ## 项目概要
 
-本项目为基于vcake算法（vcake项目下载地址：https://sourceforge.net/projects/vcake/）实现的跨平台可视化二代测拼接软件。具有全平台一致和可视化操作的特点。软件运行示例：
+本项目为基于vcake算法（vcake项目下载地址：https://sourceforge.net/projects/vcake/ ） 实现的跨平台可视化二代测拼接软件。具有全平台一致和可视化操作的特点。软件运行示例：
 
 ![结果](README.assets/结果.png)
 
