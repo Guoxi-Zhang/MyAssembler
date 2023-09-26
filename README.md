@@ -12,13 +12,27 @@
 
 ## 项目概要
 
-本项目为基于vcake算法（vcake项目下载地址：https://sourceforge.net/projects/vcake/ ） 实现的跨平台可视化二代测拼接软件。具有全平台一致和可视化操作的特点。软件运行示例：
+本项目为基于vcake算法（vcake项目下载地址：https://sourceforge.net/projects/vcake/  ） 实现的跨平台可视化二代测拼接软件。具有全平台一致和可视化操作的特点。软件运行示例：
 
-![结果](README.assets/结果.png)
+![结果](README/结果.png)
 
 输出文件示例：
 
-![输出文件](README.assets/输出文件.png)
+![输出文件](README/输出文件.png)
+
+## 项目亮点
+
+![image-20230926140540132](README/image-20230926140540132.png)
+
+![image-20230926140557776](README/image-20230926140557776.png)
+
+![image-20230926140609376](README/image-20230926140609376.png)
+
+![image-20230926140621163](README/image-20230926140621163.png)
+
+![image-20230926140711357](README/image-20230926140711357.png)
+
+
 
 ## 环境要求
 
@@ -95,7 +109,7 @@ MyAssembler有两种运行方式，**命令行运行**和**图形界面运行**�
 
 通过UI上端的三个文件选择器输入文件：
 
-![image-20220411153430028](README.assets/image-20220411153430028.png)
+![image-20220411153430028](README/image-20220411153430028.png)
 
 同时需要设置项目名称及保存路径。
 
@@ -118,7 +132,7 @@ MyAssembler有两种运行方式，**命令行运行**和**图形界面运行**�
 
 **算法流程图：**
 
-![算法流程图_00](README.assets/算法流程图_00.png)
+![算法流程图_00](README/算法流程图_00.png)
 
 **算法核心：**
 
